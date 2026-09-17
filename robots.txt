@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qpykbskbt.github.io/sitemap.xml
